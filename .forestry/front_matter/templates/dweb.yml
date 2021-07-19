@@ -11,3 +11,4 @@ fields:
     schema:
       format: markdown
   label: dWebをつくってみた
+  description: dWebサイトをつくった記録
